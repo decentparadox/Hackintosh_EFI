@@ -1,6 +1,7 @@
 # Hackintosh EFI for HP Pavilion Gaming Laptop 15-ec2xx
 
 [HP Pavilion Gaming Laptop]
+Please follow guide while attempting to create a hackintosh
 
 ## Introduction
 
